@@ -2,8 +2,7 @@ import traceback
 
 
 def main():
-    print('Hello World')
-    print("Ayush")
+    print('Seecond File')
 
 
 if __name__ == '__main__':
