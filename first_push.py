@@ -2,7 +2,7 @@ import traceback
 
 
 def main():
-    print('Hello')
+    print('Hello World')
 
 
 if __name__ == '__main__':
