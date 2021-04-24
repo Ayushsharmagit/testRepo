@@ -3,7 +3,7 @@ import traceback
 
 def main():
     print('Hello World')
-    print("Ayush")
+    print("Ayush Sharma")
 
 
 if __name__ == '__main__':
