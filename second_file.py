@@ -1,6 +1,10 @@
 import traceback
 
 
+def tempFunc():
+    pass
+
+
 def main():
     print('Seecond File')
 
